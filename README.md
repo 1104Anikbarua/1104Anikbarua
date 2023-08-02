@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux, My Sql**
 
-- 💬 Ask me about **React, JavaScript, Rest Api**
+- 💬 Ask me about **React, JavaScript, Next Js, Mongo Db**
 
 - 📫 How to reach me **anikbb04@gmail.com**
 
