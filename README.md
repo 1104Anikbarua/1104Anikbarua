@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **React, JavaScript, Rest Api**
 
-- 📫 How to reach me **et.srabon@gmail.com**
+- 📫 How to reach me **anikbb04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iMWpsHb9WTSguKNliSLZCkHeqOiKGm-P/view?usp=sharing](https://drive.google.com/file/d/1iMWpsHb9WTSguKNliSLZCkHeqOiKGm-P/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AuyPoaZ__qRCUuMjH_VzyqbCBmPMITuc/view?usp=sharing](https://drive.google.com/file/d/1AuyPoaZ__qRCUuMjH_VzyqbCBmPMITuc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
