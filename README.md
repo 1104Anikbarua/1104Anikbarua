@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/devsrabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devsrabon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srabon-barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srabon-barua" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21154747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21154747" height="30" width="40" /></a>
-<a href="https://fb.com/srabon.barca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srabon.barca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anikbb04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srabon-barua" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20364658/anik-barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21154747" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007521315781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srabon.barca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
