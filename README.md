@@ -61,5 +61,17 @@
               height="40"
             />
           </a>
+  <a
+            href="https://redux.js.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+              alt="Redux Logo"
+              width="40"
+              height="40"
+            />
+          </a>
 </a> </p>
 </a> </p>
