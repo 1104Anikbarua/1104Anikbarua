@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+[![](https://visitcount.itsvg.in/api?id=1104Anikbarua&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on Sublime Andamane<br><br>🌱 I’m currently learning Redux, My Sql<br><br>💬 Ask me about React, JavaScript, Next Js, Mongo Db<br><br>📫 How to reach me anikbb04@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1z6LGq1FgUchnTOQbnmMWQTUFbp911gJr/view?usp=sharing
 
