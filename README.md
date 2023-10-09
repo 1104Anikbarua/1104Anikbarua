@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anikbb04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AuyPoaZ__qRCUuMjH_VzyqbCBmPMITuc/view?usp=sharing](https://drive.google.com/file/d/1AuyPoaZ__qRCUuMjH_VzyqbCBmPMITuc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z6LGq1FgUchnTOQbnmMWQTUFbp911gJr/view?usp=sharing](https://drive.google.com/file/d/1z6LGq1FgUchnTOQbnmMWQTUFbp911gJr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
