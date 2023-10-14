@@ -16,7 +16,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1104Anikbarua&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
