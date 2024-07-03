@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dmqgkr30q/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1719995504/Purple_Blue_Creative_Marketing_Business_Banner_sw6twu.png" alt="anik GitHub README header image">
+<img src="https://res.cloudinary.com/dmqgkr30q/image/upload/c_thumb,w_200,g_face/v1719995504/Purple_Blue_Creative_Marketing_Business_Banner_sw6twu.png" alt="anik GitHub README header image">
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
