@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-🔭 I’m currently working on Take Appointment<br><br>🌱 I’m currently learning Next Js<br><br>💬 Ask me about React, JavaScript, Next Js, Mongo Db<br><br>📫 How to reach me anikbb04@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1z6LGq1FgUchnTOQbnmMWQTUFbp911gJr/view?usp=sharing
+🔭 I’m currently working on Take Appointment<br><br>🌱 I’m currently learning Next Js<br><br>💬 Ask me about React, JavaScript, Next Js, Mongo Db , PostgreSQL<br><br>📫 How to reach me anikbb04@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1z6LGq1FgUchnTOQbnmMWQTUFbp911gJr/view?usp=sharing
 
 
 ## 🌐 Socials:
